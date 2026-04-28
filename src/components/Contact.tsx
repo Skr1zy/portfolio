@@ -152,7 +152,7 @@ export const Contact = ({ id }: { id: string }) => {
         animate={isSectionInView ? 'visible' : 'hidden'}
         transition={{ duration: 1.2, ease: 'easeOut', delay: 0.2 }}
       >
-        © 2025 Artyom Antonenko. All rights reserved.
+        © 2026 Artyom Antonenko. All rights reserved.
       </motion.div>
     </motion.div>
   );
